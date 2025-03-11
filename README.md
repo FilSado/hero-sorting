@@ -1,3 +1,4 @@
+```markdown
 Project status badge
 Current status
 
@@ -14,3 +15,4 @@ Raster branch image URL
 https://ci.appveyor.com/api/projects/status/v03t8wb92jnlit4j/branch/main
 Branch sample markdown code
 [![Build status](https://ci.appveyor.com/api/projects/status/v03t8wb92jnlit4j/branch/main?svg=true)](https://ci.appveyor.com/project/FilSado/hero-sorting/branch/main)
+```
